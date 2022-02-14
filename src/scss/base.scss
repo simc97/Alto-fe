@@ -1,0 +1,12 @@
+html, body {
+    background: $background;
+}
+
+body {
+    margin: 0;
+    @include base-text;
+}
+
+.w-100{
+    width: 100%!important;
+}

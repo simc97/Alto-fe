@@ -1,0 +1,89 @@
+@font-face {
+    font-family: "Linotype Black";
+    src: url("../assets/fonts/Linotype - OptimaLTStd-Black.otf");
+}
+
+@font-face {
+    font-family: "Linotype Black Italic";
+    src: url("../assets/fonts/Linotype - OptimaLTStd-BlackItalic.otf");
+}
+
+@font-face {
+    font-family: "Linotype Bold";
+    src: url("../assets/fonts/Linotype - OptimaLTStd-Bold.otf");
+}
+
+@font-face {
+    font-family: "Linotype Bold Italic";
+    src: url("../assets/fonts/Linotype - OptimaLTStd-BoldItalic.otf");
+}
+
+@font-face {
+    font-family: "Linotype Demi Bold";
+    src: url("../assets/fonts/Linotype - OptimaLTStd-DemiBold.otf");
+}
+
+@font-face {
+    font-family: "Linotype Demi Bold Italic";
+    src: url("../assets/fonts/Linotype - OptimaLTStd-DemiBoldItalic.otf");
+}
+
+@font-face {
+    font-family: "Linotype Extra Black";
+    src: url("../assets/fonts/Linotype - OptimaLTStd-ExtraBlack.otf");
+}
+
+@font-face {
+    font-family: "Linotype Italic";
+    src: url("../assets/fonts/Linotype - OptimaLTStd-Italic.otf");
+}
+
+@font-face {
+    font-family: "Linotype Medium";
+    src: url("../assets/fonts/Linotype - OptimaLTStd-Medium.otf");
+}
+
+@font-face {
+    font-family: "Linotype Medium Italic";
+    src: url("../assets/fonts/Linotype - OptimaLTStd-MediumItalic.otf");
+}
+
+@font-face {
+    font-family: "Linotype X Black Italic";
+    src: url("../assets/fonts/Linotype - OptimaLTStd-XBlackItalic.otf");
+}
+
+@font-face {
+    font-family: "Linotype";
+    src: url("../assets/fonts/Linotype - OptimaLTStd.otf");
+}
+
+@font-face {
+    font-family: "PxGroTesk Bold";
+    src: url("../assets/fonts/PxGrotesk-Bold.otf");
+}
+
+@font-face {
+    font-family: "PxGroTesk Boldlta";
+    src: url("../assets/fonts/PxGrotesk-BoldIta.otf");
+}
+
+@font-face {
+    font-family: "PxGroTesk Light";
+    src: url("../assets/fonts/PxGrotesk-Light.otf");
+}
+
+@font-face {
+    font-family: "PxGroTesk Regular";
+    src: url("../assets/fonts/PxGrotesk-Regular.otf");
+}
+
+@font-face {
+    font-family: "PxGroTesk RegularIta";
+    src: url("../assets/fonts/PxGrotesk-RegularIta.otf");
+}
+
+@font-face {
+    font-family: "PxGroTesk Screen";
+    src: url("../assets/fonts/PxGrotesk-Screen.otf");
+}

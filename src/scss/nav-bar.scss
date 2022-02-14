@@ -1,0 +1,25 @@
+.nav-container {
+    padding: 0.75rem 1.5rem;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.sticky-top {
+    position: sticky;
+    top: 0;
+    z-index: 1020;
+}
+
+.header-icon-container{
+    display: flex;
+    justify-content: space-between;
+    width: 8%;
+}
+
+
+
+.shadow {
+    box-shadow: 0 .5rem 1rem rgba(0,0,0,.15)!important;
+}

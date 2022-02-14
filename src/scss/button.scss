@@ -1,0 +1,15 @@
+
+.filled-button {
+    @include button-text;
+    border: none;
+    border-radius: 0;
+    background-color: $terracotta;
+    width: 318px;
+    height: 40px;
+    margin-top: 1.25rem!important
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,28 @@
+$pxgrotesk-regular: 'PxGroTesk Regular';
+$lintoype-semi-bold: 'Linotype Demi Bold';
+$lintoype-regular: 'Linotype';
+
+@mixin text-definition($font-family, $font-size, $line-height, $letter-spacing){
+    font-family: $font-family, Helvetica Neue,Helvetica, sans-serif;
+    font-size: $font-size;
+    line-height: $line-height;
+    letter-spacing: $letter-spacing;
+}
+
+@mixin base-text {
+    @include text-definition($pxgrotesk-regular, 1rem, 1.5px, normal);
+    color: $black;
+    font-weight: 400;
+    text-align: left;
+}
+
+@mixin home-page-h1{
+    @include text-definition($lintoype-semi-bold, 3rem, 3.636rem, normal);
+    color: $dark-brown;
+}
+
+@mixin button-text {
+    @include text-definition($lintoype-semi-bold, .9rem, 1.063rem, .188rem);
+    text-transform: uppercase;
+    color: #faf8f6;
+}
