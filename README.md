@@ -1,13 +1,24 @@
 # Instructions:
 
 ### `npm install` 
-	in the root directory run `npm install` to make sure all dependencies are present
+
+in the root directory run `npm install` to make sure all dependencies are present
 
 ### run 'npm start'
-	the app will run on http://localhost:3000
+
+the app will run on http://localhost:3000
 
 ### go to `http://localhost:3000`
-	You'll see the home page of the app. From there click the `Book A Ride` button, which takes you to the new trip page. This page currently has a preloaded pickup and dropoff location. Ideally if time permitted, the user would be able to change the input fields and pick a pickup/dropoff location. Confirm the locations by pressing the `confirm` button. This will take to you trip details page, which is created by a custom reusable component that creates all four trip detail pages. Move from page to page by clicking anywhere on the page. If at any point you would like to start over, just click the 'Alto' logo in the navigation bar to go back to the home screen. 
+
+You'll see the home page of the app. From there click the `Book A Ride` button,
+which takes you to the new trip page. This page currently has a preloaded pickup
+and dropoff location. Ideally if time permitted, the user would be able to change
+the input fields and pick a pickup/dropoff location. Confirm the locations by
+pressing the `confirm` button. This will take to you trip details page, which
+is created by a custom reusable component that creates all four trip detail pages.
+Move from page to page by clicking anywhere on the page. If at any point you would
+like to start over, just click the 'Alto' logo in the navigation bar to go back to
+the home screen. 
 
 
 If time permitted: 
